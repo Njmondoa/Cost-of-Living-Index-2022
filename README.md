@@ -1,5 +1,10 @@
 # Cost of living Analysis
 
+This is an analysis and visualization of the 2022 cost of living index. 
+
+`Follow link to have a glance at the complete project` [Read More](https://njimonda.github.io/costlivingDemo/)
+
+
 The cost of living index of 2022 is downloaded from kaggle. 
 
 
